@@ -1,10 +1,4 @@
 ## Hi there 👋
-## 华师大软件工程实践--虚拟宠物医院（前端+后端）
-**Here are some ideas to get you started:**
+## 这里是华东师范大学大四必修课（密码学和软件方向）软件工程实践的项目--虚拟宠物医院（前端+后端+数据库+自动化测试脚本），现将此代码开源供后来的学弟学妹们上这门课的时候有一个参考，请安心享用！！！
 
-🙋‍♀️ A short introduction - what is your organization all about?<br/>
-🌈 Contribution guidelines - how can the community get involved?<br/>
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?<br/>
-🍿 Fun facts - what does your team eat for breakfast?<br/>
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<br/>
 
